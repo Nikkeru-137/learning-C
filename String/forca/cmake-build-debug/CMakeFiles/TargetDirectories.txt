@@ -1,0 +1,3 @@
+N:/Projetos em C/String/forca/cmake-build-debug/CMakeFiles/forca.dir
+N:/Projetos em C/String/forca/cmake-build-debug/CMakeFiles/edit_cache.dir
+N:/Projetos em C/String/forca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

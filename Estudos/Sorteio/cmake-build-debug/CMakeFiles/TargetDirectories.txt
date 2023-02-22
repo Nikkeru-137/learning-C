@@ -1,0 +1,3 @@
+N:/Projetos em C/Estudos/Sorteio/cmake-build-debug/CMakeFiles/Sorteio.dir
+N:/Projetos em C/Estudos/Sorteio/cmake-build-debug/CMakeFiles/edit_cache.dir
+N:/Projetos em C/Estudos/Sorteio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

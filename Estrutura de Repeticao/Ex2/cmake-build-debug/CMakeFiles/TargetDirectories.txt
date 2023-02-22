@@ -1,0 +1,3 @@
+N:/Projetos em C/Estrutura de Repeticao/Ex2/cmake-build-debug/CMakeFiles/Ex2.dir
+N:/Projetos em C/Estrutura de Repeticao/Ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+N:/Projetos em C/Estrutura de Repeticao/Ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
